@@ -1,2 +1,1 @@
-# Calculatorrr
-Creating react calculator.
+
